@@ -30,6 +30,10 @@ channel: TypeWithMe
 
 https://www.youtube.com/watch?v=LvjNGo5ALyQ
 
+## angular pipe
+
+https://www.digitalocean.com/community/tutorials/angular-custom-pipes-angular
+
 ## envroment define (todo)
 
 https://indepth.dev/posts/1177/becoming-an-angular-environmentalist
